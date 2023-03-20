@@ -6,3 +6,4 @@
 - [Comparação de dois números](https://rafaelmachadobr.github.io/atividades-javascript/comparacao/)
 - [Média aritmética](https://rafaelmachadobr.github.io/atividades-javascript/leituraExibicao/)
 - [Soma total](https://rafaelmachadobr.github.io/atividades-javascript/somaNumeros/)
+- [Soma inferior á 72](https://rafaelmachadobr.github.io/atividades-javascript/somaInferiorA72/)
