@@ -5,3 +5,4 @@
 - [Maior de três números](https://rafaelmachadobr.github.io/atividades-javascript/maiorDeTres/)
 - [Comparação de dois números](https://rafaelmachadobr.github.io/atividades-javascript/comparacao/)
 - [Média aritmética](https://rafaelmachadobr.github.io/atividades-javascript/leituraExibicao/)
+- [Soma total](https://rafaelmachadobr.github.io/atividades-javascript/somaNumeros/)
