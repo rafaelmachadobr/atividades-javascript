@@ -8,3 +8,4 @@
 - [Soma total](https://rafaelmachadobr.github.io/atividades-javascript/somaNumeros/)
 - [Soma inferior á 72](https://rafaelmachadobr.github.io/atividades-javascript/somaInferiorA72/)
 - [Media](https://rafaelmachadobr.github.io/atividades-javascript/media/)
+- [Voto](https://rafaelmachadobr.github.io/atividades-javascript/voto/)
